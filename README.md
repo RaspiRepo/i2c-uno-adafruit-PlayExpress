@@ -20,3 +20,7 @@ comands. This example code simply On OFF RED LED on the board.
 
 
 
+# Reference 
+
+https://www.adafruit.com/product/3333
+https://www.arduino.cc/en/Reference/Wire
